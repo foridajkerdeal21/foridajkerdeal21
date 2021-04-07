@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @foridajkerdeal21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mohammad Foridul Islam
+- 👀 I’m interested in ASP.Net Core, Web API, Angular and React
+- 🌱 I’m currently learning Docker, React
+- 💞️ I’m looking to collaborate on ASP.Net Core Web API with Angular
+- 📫 How to reach me 
 
 <!---
 foridajkerdeal21/foridajkerdeal21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
