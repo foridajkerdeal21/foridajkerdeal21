@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammad Foridul Islam
+- 👋 Hi, I’m Mohammad Forid Islam
 - 👀 I’m interested in ASP.Net Core, Web API, Angular and React
 - 🌱 I’m currently learning Docker, React
 - 💞️ I’m looking to collaborate on ASP.Net Core Web API with Angular
